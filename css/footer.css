@@ -1,0 +1,11 @@
+.footer-developed-by {
+  display: grid;
+  grid-template-columns: auto auto;
+  align-items: center;
+  text-align: right;
+  gap: 3px;
+}
+
+.footer-developed-by img {
+  height: 1.25rem;
+}
