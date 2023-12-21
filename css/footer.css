@@ -9,3 +9,9 @@
 .footer-developed-by img {
   height: 1.25rem;
 }
+
+@media (max-width: 600px) {
+  .footer-developed-by img {
+    height: 1.1rem;
+  }
+}
